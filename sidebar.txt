@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xny:home|Door43 (xny)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xny|d43-xny repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xny/archive/master.zip|d43-xny.zip]]
+
+**Recent Changes**
+{{changes>ns = xny}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xny|Ethnologue data]]
+
